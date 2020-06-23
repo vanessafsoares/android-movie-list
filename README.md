@@ -1,10 +1,20 @@
-# AndroidCrud
+# Movie List #
 
-Crud feito em Java para Android com SqLite:
+Create, read, update, delete and list movies using SQLite.
 
-- Create
-- Read
-- Update
-- Delete
-- ListView
-- SqLite
+### Installation ###
+
+* Android Studio
+* Clone this Repository
+
+### Generate APK ###
+
+Configuration:
+
+- Open AVD Manager
+- Choose some device
+- Build app
+
+```
+~/app/build/outputs/apk/debug/app-debug.apk
+```
